@@ -1,0 +1,8 @@
+nltk
+numpy
+panda
+tensorflow
+scikit-learn
+re
+os
+subprocess
